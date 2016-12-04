@@ -8,6 +8,9 @@ With this toolkit you'll be able to:
 * Control phone calls and respond to text messages in real time with [TwiML](http://www.twilio.com/docs/api/twiml)
 * Embed [Twilio Client](http://www.twilio.com/docs/client) in-browser calling in your Salesforce and Force.com apps
 
+## Quick Links
+ * [How to send Twilio messages](http://twilio-salesforce.readthedocs.io/en/latest/usage/messages.html)
+
 
 Installation
 ============
